@@ -1,4 +1,4 @@
-<img width="698" height="595" alt="image" src="https://github.com/user-attachments/assets/79015724-62f1-4d89-b48b-295bddaaf8c5" /># road.thm
+# road.thm
 
 sudo nano /etc/hosts
 
