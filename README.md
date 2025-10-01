@@ -1,4 +1,4 @@
-# road.thm
+# TryHackMe - Road
 
 sudo nano /etc/hosts
 
